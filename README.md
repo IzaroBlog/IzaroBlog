@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Izaro Basurko
-- 👀 I’m interested in energy, free softwate, ecologism ...
+- 👀 I’m interested in energy, free softwate, ecologism, RPG ...
 - 🌱 I’m currently learning how to use git
 - 📫 How to reach me: your can write to: izaroblog@pm.me
 
